@@ -3,3 +3,7 @@ whois -h whois.altdb.net 204.155.124.0/23
 
 whois -h whois.radb.net AS395176
 whois -h whois.radb.net AS-Encore-Technologies
+
+whois -h filtergen.level3.com RADB::AS395176  
+whois -h filtergen.level3.com RADB::AS5790
+whois -h filtergen.level3.com RADB::AS-Encore-Technologies
