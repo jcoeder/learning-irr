@@ -7,3 +7,10 @@ whois -h whois.radb.net AS-Encore-Technologies
 whois -h filtergen.level3.com RADB::AS395176  
 whois -h filtergen.level3.com RADB::AS5790
 whois -h filtergen.level3.com RADB::AS-Encore-Technologies
+
+
+whois -h rr.ntt.net '!6as395176'
+whois -h rr.ntt.net '!gas395176'
+whois -h whois.radb.net '!gas395176' 
+
+whois -h rr.ntt.net '!iAS-Encore-Technologies'
