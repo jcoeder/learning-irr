@@ -14,3 +14,5 @@ whois -h rr.ntt.net '!gas395176'
 whois -h whois.radb.net '!gas395176' 
 
 whois -h rr.ntt.net '!iAS-Encore-Technologies'
+
+whois -h whois.radb.net -i mnt-by MAINT-RR
